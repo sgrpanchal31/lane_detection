@@ -1,6 +1,7 @@
 # lane_detection
 
 ## Requirements
+- Python version 3 or above
 - OpenCV
 - Numpy
 - Matplotlib
